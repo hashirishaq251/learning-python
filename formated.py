@@ -1,5 +1,5 @@
 import sys
-print("=====-----=====-----Welcome to the simple calculator program designed by Hashir-----=====-----=====")
+print("=====-----=====-----Welcome to the simple calculator program designed by M.M.Hashir-----=====-----=====")
 
 def sum():
     a = int(input("Enter a number: "))
