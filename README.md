@@ -1,2 +1,3 @@
+© 2025 hashirishaq251
 # learning-python
-These python programme files are by Hashir From PGC PB-25
+These python programme files are written by Hashir From PGC PB-25.

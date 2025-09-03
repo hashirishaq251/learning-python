@@ -1,3 +1,4 @@
+#© 2025 hashirishaq251
 import sys
 print("=====-----=====-----Welcome to the simple calculator program designed by M.M.Hashir-----=====-----=====")
 
